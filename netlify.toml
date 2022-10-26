@@ -5,6 +5,7 @@
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
+
 [[redirects]]
   from = "/*"
     to = "https://nftticketpass.com/:splat"
