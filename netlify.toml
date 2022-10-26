@@ -6,7 +6,7 @@
   package = "@netlify/plugin-nextjs"
 
 [[redirects]]
-  from = "/"
-    to = "https://unlock3.com/"
+  from = "/*"
+    to = "https://nftticketpass.com/:splat"
     status = 301
     force = true
